@@ -1,5 +1,22 @@
 # Vendor Intelligence Copilot
 
+AI-powered vendor analysis system using a 5-layer RAG architecture with FastAPI, Streamlit, vector embeddings, and semantic retrieval.
+
+---
+
+## Demo Video
+
+Watch a 5-minute walkthrough of the system architecture and features.
+
+▶ **Watch the demo:**  
+
+Click the image below to watch the full demo.
+
+[![Vendor Intelligence Copilot Demo](https://cdn.loom.com/sessions/thumbnails/YOUR_VIDEO_ID-with-play.gif)](https://www.loom.com/share/4eea2f32e52240a9820d08ec1cdd3cb4)
+
+
+# Vendor Intelligence Copilot
+
 An AI-powered vendor evaluation system that analyzes vendor contracts, SLAs, pricing models, and security documents using **Retrieval-Augmented Generation (RAG)**.
 
 The system ingests vendor documents (PDF/TXT), stores them in a **vector database**, and enables **AI-driven decision intelligence** such as vendor comparison, risk analysis, scoring, and recommendations.
