@@ -1,0 +1,17 @@
+Vendor Beta Service Level Agreement
+
+1. Uptime Commitment
+Vendor Beta guarantees 99.5% monthly uptime.
+
+2. Service Credits
+If uptime drops below 99.5%, customers receive a 10% credit.
+If uptime drops below 98.5%, customers receive a 20% credit.
+
+3. Response Time
+Critical incidents receive a response within 2 hours.
+
+4. Data Retention
+Vendor Beta retains logs for 180 days.
+
+5. Renewal Terms
+Contracts renew automatically every 12 months.

@@ -1,0 +1,17 @@
+Vendor Alpha Pricing Model
+
+1. Subscription Cost
+Vendor Alpha charges $120,000 per year for the enterprise procurement platform.
+
+2. Implementation Fees
+Initial implementation costs are approximately $25,000 depending on integration complexity.
+
+3. Support Plan
+Standard support is included in the subscription fee.
+Premium support costs an additional $15,000 annually.
+
+4. Contract Length
+Minimum contract duration is 12 months.
+
+5. Payment Terms
+Invoices must be paid within 30 days.

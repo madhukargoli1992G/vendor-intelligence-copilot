@@ -1,0 +1,19 @@
+Vendor Alpha Service Level Agreement
+
+1. Uptime Commitment
+Vendor Alpha guarantees 99.9% monthly uptime for the hosted procurement platform.
+
+2. Service Credits
+If uptime falls below 99.9% but remains above 99.0%, the customer receives a 10% service credit.
+If uptime falls below 99.0%, the customer receives a 25% service credit.
+
+3. Response Time
+Critical incidents must receive an initial response within 1 hour.
+High priority incidents must receive an initial response within 4 hours.
+Medium priority incidents must receive an initial response within 1 business day.
+
+4. Data Retention
+Vendor Alpha retains customer audit logs for 365 days.
+
+5. Renewal Terms
+The agreement renews automatically for 12 months unless canceled 30 days before renewal.

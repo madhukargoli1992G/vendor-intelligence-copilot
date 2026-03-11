@@ -1,0 +1,16 @@
+Vendor Alpha Contract Terms
+
+1. Renewal
+The contract automatically renews for another 12 month period unless cancelled 30 days prior.
+
+2. Termination
+Either party may terminate the agreement with 30 days written notice.
+
+3. Liability
+Vendor Alpha's liability is limited to the annual contract value.
+
+4. Data Ownership
+All customer data remains the property of the customer.
+
+5. Compliance
+Vendor Alpha complies with SOC2 Type II security standards.
