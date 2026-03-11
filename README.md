@@ -158,11 +158,11 @@ Which vendor should we choose?
 
 Users can upload vendor documents which are automatically parsed and indexed in the vector database.
 
-![Upload](assets/upload/upload_01.png)
+![Upload](assets/upload/Upload_01.png)
 
 After ingestion, documents are chunked, embedded, and stored for retrieval.
 
-![Upload Success](assets/upload/upload_02.png)
+![Upload Success](assets/upload/Upload_02.png)
 
 ---
 
