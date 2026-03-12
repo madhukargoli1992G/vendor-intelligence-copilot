@@ -12,7 +12,7 @@ Watch a 5-minute walkthrough of the system architecture and features.
 
 Click the image below to watch the full demo.
 
-https://www.loom.com/share/4eea2f32e52240a9820d08ec1cdd3cb4
+[![Vendor Intelligence Copilot Demo](assets/dashboard/dashboard_01.png)](https://www.loom.com/share/4eea2f32e52240a9820d08ec1cdd3cb4)
 
 
 # Vendor Intelligence Copilot
